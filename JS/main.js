@@ -72,12 +72,12 @@ $(document).ready(function(){
         }
     });
 
-    cerrar();
+    //cerrar();
 
 });
 
 
-function cerrar(){
+/*function cerrar(){
     const menu_close1 = document.getElementById('cerrar1');
     const menu_close2 = document.getElementById('cerrar2');
     const menu_close3 = document.getElementById('cerrar3');
@@ -130,4 +130,4 @@ function cerrar(){
             menu.classList.toggle('show');
         })
     }
-}
+}*/
